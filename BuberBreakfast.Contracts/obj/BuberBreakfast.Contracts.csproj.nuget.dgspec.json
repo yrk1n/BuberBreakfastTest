@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\yrkn\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yrkn\\AppData\\Roaming\\NuGet\\NuGet.Config",
