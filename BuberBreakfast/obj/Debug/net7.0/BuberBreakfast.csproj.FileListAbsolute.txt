@@ -27,3 +27,4 @@ C:\Users\yrkn\Desktop\dotnet_new_repo\BuberBreakfast\obj\Debug\net7.0\refint\Bub
 C:\Users\yrkn\Desktop\dotnet_new_repo\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.pdb
 C:\Users\yrkn\Desktop\dotnet_new_repo\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\yrkn\Desktop\dotnet_new_repo\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakfast.dll
+C:\Users\yrkn\Desktop\dotnet_new_repo\BuberBreakfast\bin\Debug\net7.0\ErrorOr.dll

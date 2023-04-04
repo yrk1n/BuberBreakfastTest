@@ -1,2 +1,2 @@
-@id = 5d4a884a-b1c7-49a3-a56f-e515bab97628
+@id = fb8a229a-ba0e-4eea-9a9b-b5d888aafa84
 GET  http://localhost:5065/breakfast/{{id}}
