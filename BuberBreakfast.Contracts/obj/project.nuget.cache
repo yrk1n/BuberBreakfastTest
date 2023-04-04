@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0hLuWU8bf7anbkno6TgEeYtUnoDKBIAL6LnOdlwTO/V/vQtdS4GsBBXy4YwmQ/ejt7wXfs+VSLmxH2ajowz1g==",
+  "dgSpecHash": "eXagJH8HGwpscNe2caO9qeEwi+FMf3JpyimzF2Apb8mG40bq4idTG0Q4yS/YITUMjpyQwhtDWsEgYgI0X5c9Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+  "projectFilePath": "c:\\Users\\yrkn\\Desktop\\dotnet_new_repo\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
